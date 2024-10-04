@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+printf("hello world my name is lakshita dixit and this macbook is my baby and my friend and i love her, i will learn eveything from her");
+   
+}
